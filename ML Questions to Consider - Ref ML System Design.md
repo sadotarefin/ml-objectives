@@ -1,5 +1,3 @@
-Here’s the consolidated and regrouped list of questions with repetitive ones removed:
-
 ### **Business and System Requirements**
 1. What is the business objective for developing this ML system?
 2. What specific features is the system expected to support that could impact the ML system?
